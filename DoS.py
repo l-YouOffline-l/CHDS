@@ -5,10 +5,6 @@ import socket
 from sys import platform
 
 
-l-YoนOff𝓵ineﾂ-l
-
-
-
 
 """
 Created By: l-YoนOff𝓵ineﾂ-l
