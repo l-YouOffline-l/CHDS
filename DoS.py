@@ -7,7 +7,7 @@ from sys import platform
 
 
 """
-Created By: l-YoนOff𝓵ineﾂ-l
+Created By: l-YouOffline-l
 ==========================
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
